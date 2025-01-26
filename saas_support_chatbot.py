@@ -10,7 +10,7 @@ from transformers import T5Tokenizer, T5ForConditionalGeneration
 
 # Initialize the tokenizer and model
 tokenizer = T5Tokenizer.from_pretrained("google/flan-t5-base")
-model = T5ForConditionalGeneration.from_pretrained("google/flan-t5-base").to("cuda")
+model = T5ForConditionalGeneration.from_pretrained("google/flan-t5-base").to("cpu") ##using "cpu" instead of "gpu" (GPU) as deploying on HF free tier of CPU processor
 
 
 """Loading the FAQs csv from Google drive into a Python dictionary"""
@@ -63,7 +63,7 @@ def get_answer(question):
     """
 
     #prompt string is tokenized using a HF tokenizer
-    inputs = tokenizer(prompt, return_tensors="pt").to("cuda")
+    inputs = tokenizer(prompt, return_tensors="pt").to("cpu")
 
     #Flan-T5 model generates an answer based on the inputs, with a maximum length of 200 tokens.
     #The Flan-T5 model processes the tokenized inputs and generates an answer.
