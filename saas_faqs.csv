@@ -1,0 +1,26 @@
+Question,Answer,Category
+How can I update my payment method?,"Go to Settings > Billing, select ""Payment Method,"" and enter your updated payment information.",Billing
+Why was I charged twice this month?,Duplicate charges can occur if multiple subscriptions are active. Contact support with your invoice details for resolution.,Billing
+Can I switch from monthly to annual billing?,"Yes, go to Settings > Billing, choose ""Switch to Annual Plan,"" and follow the prompts.",Billing
+How do I cancel my subscription?,"Navigate to Settings > Billing, select ""Cancel Subscription,"" and confirm. Contact support if assistance is needed.",Billing
+Are there any discounts for nonprofits?,"Yes, we offer special pricing for nonprofits. Visit our Nonprofit Program page or contact support for details.",Billing
+Can I get a refund for unused months?,"Refunds depend on our refund policy. Typically, refunds are not issued for unused months. Contact support for specific inquiries.",Billing
+Why am I seeing taxes on my invoice?,Taxes are applied based on local regulations. Check the tax breakdown in Settings > Billing > Invoices or contact support for clarification.,Billing
+How can I reset my password?,"Click ""Forgot Password"" on the login page, enter your registered email, and follow the reset link sent to your email.",Account Issues
+I’m not receiving password reset emails.,"Check your spam folder, ensure the email address is correct, and add our domain to your safe senders list. Contact support if issues persist.",Account Issues
+How do I transfer ownership of an account?,"Go to Settings > Account Management, select ""Transfer Ownership,"" and assign a new owner. Both parties must confirm the transfer.",Account Issues
+Can I recover a deleted account?,Deleted accounts are recoverable for up to 30 days. Contact support with account details for recovery assistance.,Account Issues
+Why am I locked out of my account?,Lockouts may occur due to multiple failed login attempts or security concerns. Contact support to verify and regain access.,Account Issues
+How do I update my email address?,"Go to Settings > Profile, edit your email address, and confirm the change through the email verification link sent to your new address.",Account Issues
+Can I use my account on multiple devices?,"Yes, your account can be used across multiple devices, provided you log in using the same credentials.",Account Issues
+How do I deactivate my account?,"Go to Settings > Account Management, select ""Deactivate Account,"" and follow the prompts. Contact support for reactivation options.",Account Issues
+How do I schedule a meeting?,"Click Schedule Meeting, set the time and participants, and save the meeting. A link will be generated for sharing.",Feature Help
+Can I integrate third-party apps?,"Yes, go to App Integrations in settings, browse available apps, and install the ones you need.",Feature Help
+How do I share my screen?,"During a call, click the ""Share Screen"" button, select the screen or app window you want to share, and click ""Share.""",Feature Help
+Is there a way to record meetings?,"Yes, enable the ""Record"" option during a meeting. Recordings will be saved to your account or cloud storage.",Feature Help
+How do I create a private channel?,"Go to Channels, click ""Create New Channel,"" and toggle the ""Private"" option before inviting members.",Feature Help
+Can I customize notifications?,"Yes, go to Settings > Notifications to customize notification preferences for channels, DMs, and emails.",Feature Help
+What operating systems are supported?,"Our app supports Windows, macOS, Linux, iOS, and Android. Check the System Requirements page for details.",Other
+How do I check for software updates?,"Go to Settings > About or check the ""Updates"" section in the app menu. Updates may also install automatically.",Other
+Are there accessibility features available?,"Yes, our product includes features like screen reader support, keyboard navigation, and closed captions. Visit Settings > Accessibility for details.",Other
+How can I contact customer support?,You can contact support via Help Center > Contact Us or email us at support@[companyname].com.,Other
